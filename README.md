@@ -1,2 +1,7 @@
 # Rock-Paper-Scissors
+
 A simple game of Rock Paper Scissors made using HTML, CSS and Javascript
+
+You can checkout the game here - https://rock-paper-scissors-red-xi.vercel.app/
+
+If you want you can also contribute and open a PR.
